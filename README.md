@@ -1,110 +1,184 @@
-Emmanuel Ansah
-Data Scientist | Statistician | Educator
-About Me
-Hello! I'm Emmanuel Ansah, a statistician and data scientist with a deep passion for uncovering actionable insights and specializing in deep learning, machine learning, statistical data analysis, and optimization algorithms.
+# Hi there, I'm Emmanuel Ansah! 👋
 
-I leverage these tools to transform complex datasets into strategic solutions, helping teams make data-driven decisions that enhance performance, spark innovation, and drive measurable impact across industries like healthcare, finance, and manufacturing.
+<div align="center">
+  
+  **Data Scientist | Statistician | Educator**
+  
+  *Transforming complex datasets into strategic solutions*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-ansah-9b193a216)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmanuelansah)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@amt_eansah)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eansah754@gmail.com)
+  
+</div>
 
-I'm a problem-solver, a lifelong learner, and I'm committed to contributing positively through my work. Let's connect and explore how we can innovate together!
+---
 
-Research Interests
-My research interests are focused on leveraging advanced statistical and computational methods to solve complex problems. My areas of focus include:
+## 🚀 About Me
 
-Bayesian Modeling & Spatio-Temporal Point Processes
+I'm a passionate **Data Scientist** and **Statistician** with expertise in deep learning, machine learning, and statistical analysis. I specialize in transforming complex datasets into actionable insights that drive innovation and measurable impact across healthcare, finance, and manufacturing industries.
 
-Machine Learning & Deep Learning
+- 🔭 Currently working as **Data Science/AI Developer Intern** at eFiche, Rwanda
+- 🌱 MSc Mathematical Sciences in Data Science at **AIMS Rwanda** (Distinction)
+- 🎯 First Class Honors graduate in Statistics from **KNUST, Ghana** (GPA: 3.92/4.0)
+- 💡 Problem-solver and lifelong learner committed to positive impact through data
 
-Topological Data Analysis
+---
 
-Survival Analysis & Time Series Analysis
+## 🔬 Research Interests
 
-Artificial Intelligence Development & LLM Applications
+<table>
+<tr>
+<td width="50%">
 
-Applied Statistical Methods & Optimization Algorithms
+- **Bayesian Modeling & Spatio-Temporal Point Processes**
+- **Machine Learning & Deep Learning**
+- **Topological Data Analysis**
+- **Survival Analysis & Time Series Analysis**
 
-Data Science & Research and Innovation
+</td>
+<td width="50%">
 
-Education
-African Institute for Mathematical Sciences (AIMS), Rwanda
-Master of Science (MSc.) Mathematical Sciences in Data Science | Sept 2024 - June 2025
+- **Artificial Intelligence Development & LLM Applications**
+- **Applied Statistical Methods & Optimization Algorithms**
+- **Data Science Research & Innovation**
 
-Final Grade: Distinction
+</td>
+</tr>
+</table>
 
-Thesis Title: Bayesian Analysis of Spatio-Temporal Point Processes.
+---
 
-Kwame Nkrumah University of Science and Technology (KNUST), Ghana
-Bachelor of Science (B.Sc.) in Statistics | 2019 - 2023
+## 🛠️ Technical Skills
 
-Final Grade: First Class Honors | GPA: 3.92/4.0
+### Programming & Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Thesis Title: Modelling The Incidence Of Scabies Using Arima And Generalized Linear Model; A Case Study Of Kokofu Government Hospital In The Ashanti Region.
+### Statistical Software
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square)
+![STATA](https://img.shields.io/badge/STATA-1F497D?style=flat-square)
 
-Experience
-Data Science / AI Developer Intern, eFiche, Rwanda
-July 2025 - Present
+### Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-Performing trend analysis to support health surveillance system.
+### Tools & Platforms
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
-Building and testing ML pipelines to integrate a decision support system for health professionals.
+---
 
-Building a model to optimise medical supply chain and logistics.
+## 🏆 Awards & Achievements
 
-Teaching Assistant, Department of Mathematics, KNUST
-2023 - 2024
+<div align="center">
 
-Prepared and distributed course materials, including PowerPoint presentations, handouts, and problem sets.
+| 🥇 Achievement | 📅 Year | 🏛️ Institution |
+|:---|:---:|:---|
+| **Kaggle Competition Winner** - DNA Sequence Classification | 2025 | Kaggle |
+| **Top 7 Performing Student** - Statistical Machine Learning | 2024 | AIMS Rwanda |
+| **Teaching Assistant of the Year** | 2024 | KNUST Mathematics Dept. |
+| **2nd Best Graduating Student** - Statistics Class | 2023 | KNUST |
+| **Best Performing Male Student** | 2021 | Ghana Association of Statistics Students |
 
-Organized tutorial sessions for students to clarify any problems encountered within the course.
+</div>
 
-Research Intern, MB Laboratory Services, Ghana
-2022 - 2024
+---
 
-Managed and cleaned large datasets from routine lab tests to ensure data integrity and accuracy.
+## 💼 Professional Experience
 
-Calculated sensitivity, specificity and predictive values to evaluate the accuracy of diagnostic tests.
+### 🔹 Data Science/AI Developer Intern | eFiche, Rwanda
+*July 2025 - Present*
+- 📈 Performing trend analysis for health surveillance systems
+- 🤖 Building ML pipelines for decision support systems
+- 🏥 Developing models for medical supply chain optimization
 
-Worked closely with lab technicians and medical staff to develop data driven reports to inform decisions.
+### 🔹 Teaching Assistant | KNUST Mathematics Department
+*2023 - 2024*
+- 📚 Prepared comprehensive course materials and presentations
+- 👨‍🏫 Conducted tutorial sessions for student support
+- 🏆 Awarded Teaching Assistant of the Year
 
-Skills
-Statistical Analysis: Proficient in SPSS, STATA, R, and Python for statistical analysis and machine learning.
+### 🔹 Research Intern | MB Laboratory Services, Ghana
+*2022 - 2024*
+- 🔍 Managed large-scale laboratory datasets
+- 📊 Calculated diagnostic test accuracy metrics
+- 📋 Developed data-driven reports for medical staff
 
-Software & Tools: Experienced with Microsoft Office, LaTeX, SQL, Google Looker Studio, and Power BI.
+---
 
-Linux: Proficient with terminal commands and BASH scripting.
+## 📚 Education
 
-Personal Strengths: Excellent communication, leadership, teamwork, public speaking, and organizational skills.
+### 🎓 Master of Science in Mathematical Sciences (Data Science)
+**African Institute for Mathematical Sciences (AIMS), Rwanda** | *Sept 2024 - June 2025*
+- **Grade:** Distinction
+- **Thesis:** Bayesian Analysis of Spatio-Temporal Point Processes
 
-Languages: Fluent in English, with basic communication skills in French.
+### 🎓 Bachelor of Science in Statistics
+**Kwame Nkrumah University of Science & Technology (KNUST), Ghana** | *2019 - 2023*
+- **Grade:** First Class Honors (GPA: 3.92/4.0)
+- **Thesis:** Modeling Scabies Incidence Using ARIMA and GLM
 
-Awards & Achievements
-Kaggle Competition Winner: DNA sequence classification using Neural Networks (April 2025)
+---
 
-Top 7 Performing Student: Statistical Machine Learning Course (Dec 2024)
+## 🌟 Featured Projects
 
-Teaching Assistant of the Year: Mathematics Department, KNUST (2023/2024)
+<div align="center">
 
-2nd Best Graduating Student: Statistics Class of 2023, KNUST (2022/2023)
+### 🎹 [Piano Learning App](link-to-project)
+Interactive tool for learning piano keys with enhanced musical skill development
 
-Best Performing Male Student: Ghana Association of Statistics Students, KNUST (2020/2021)
+### 📊 [Data Analysis Portfolio](link-to-project)
+Comprehensive statistical analyses across healthcare and finance industries
 
-Portfolio
-Piano App: A tool designed to help users learn to play all keys on the piano, enhancing their musical skills through interactive practice.
+### 🤖 [Machine Learning Models](link-to-project)
+Predictive models for marketing optimization and resource allocation
 
-Data Analysis Projects: A suite of projects focused on extracting insightful statistical findings from data in various industries, including healthcare and finance. These analyses guide strategic decisions and process enhancements.
+### 🏥 [Scabies Incidence Modeling](link-to-project)
+ARIMA and GLM analysis for public health planning and intervention
 
-Machine Learning Models: Projects involving the development of machine learning models that provide predictive insights for marketing, sales optimization, and resource allocation, demonstrating practical application of advanced algorithms.
+</div>
 
-Scabies Incidence Modeling: Research project employing ARIMA and GLM methods to analyze and predict the incidence of scabies at Kokofu Government Hospital, contributing to public health planning and intervention.
+---
 
-Contact
-Feel free to reach out to me:
+## 📈 GitHub Stats
 
-Email: eansah754@gmail.com, emmanuel.ansah@aims.ac.rw
+<div align="center">
+  
+  ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelansah&show_icons=true&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelansah&layout=compact&theme=tokyonight)
+  
+</div>
 
-LinkedIn: linkedin.com/in/emmanuel-ansah-9b193a216
+---
 
-GitHub: github.com/emmanuelansah
+## 🤝 Let's Connect!
 
-YouTube: youtube.com/@amt_eansah
+I'm always excited to collaborate on innovative projects and explore new opportunities in data science and statistical modeling. Feel free to reach out!
 
-View Certificates/Awards
+<div align="center">
+  
+  📧 **Email:** eansah754@gmail.com | emmanuel.ansah@aims.ac.rw
+  
+  💼 **LinkedIn:** [emmanuel-ansah-9b193a216](https://linkedin.com/in/emmanuel-ansah-9b193a216)
+  
+  🐙 **GitHub:** [@emmanuelansah](https://github.com/emmanuelansah)
+  
+  🎥 **YouTube:** [@amt_eansah](https://youtube.com/@amt_eansah)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **"Transforming data into insights, insights into impact"**
+  
+  ⭐ *Star this repository if you found it interesting!*
+  
+</div>
