@@ -129,16 +129,16 @@ I'm a passionate **Data Scientist** and **Statistician** with expertise in deep 
 
 <div align="center">
 
-### 🎹 [Piano Learning App](link-to-project)
+### 🎹 Piano Learning App
 Interactive tool for learning piano keys with enhanced musical skill development
 
-### 📊 [Data Analysis Portfolio](link-to-project)
+### 📊 Data Analysis Portfolio
 Comprehensive statistical analyses across healthcare and finance industries
 
-### 🤖 [Machine Learning Models](link-to-project)
+### 🤖 Machine Learning Models
 Predictive models for marketing optimization and resource allocation
 
-### 🏥 [Scabies Incidence Modeling](link-to-project)
+### 🏥 Scabies Incidence Modeling
 ARIMA and GLM analysis for public health planning and intervention
 
 </div>
