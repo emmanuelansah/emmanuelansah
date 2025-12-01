@@ -141,7 +141,8 @@ https://www.kaggle.com/competitions/dna-intro-to-neural-nets-aims-rwanda-2025/le
 An interactive tool for learning piano keys with enhanced musical skill development.
 
 ### 📊 Data Analysis Portfolio  
-Comprehensive statistical analyses and dashboards across healthcare and finance industries.
+Comprehensive statistical analyses and dashboards across healthcare and finance industries:
+https://lookerstudio.google.com/reporting/8751e30e-c7cc-4d6d-b95e-c6dae08bdcd1/page/yTFOF
 
 ### 🤖 Machine Learning Models  
 Predictive models for supply chain optimization and resource allocation.
