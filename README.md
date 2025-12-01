@@ -138,16 +138,13 @@ Neural network model predicting transcription-factor binding on DNA sequences fo
 https://www.kaggle.com/competitions/dna-intro-to-neural-nets-aims-rwanda-2025/leaderboard
 
 ### 🎹 Piano Learning App  
-Interactive tool for learning piano keys with enhanced musical skill development.
+An interactive tool for learning piano keys with enhanced musical skill development.
 
 ### 📊 Data Analysis Portfolio  
-Comprehensive statistical analyses across healthcare and finance industries.
+Comprehensive statistical analyses and dashboards across healthcare and finance industries.
 
 ### 🤖 Machine Learning Models  
-Predictive models for marketing optimization and resource allocation.
-
-### 🏥 Scabies Incidence Modeling  
-ARIMA and GLM analysis for public health planning and intervention.
+Predictive models for supply chain optimization and resource allocation.
 
 </div>
 
