@@ -20,7 +20,7 @@
 I'm a passionate **Data Scientist** and **Statistician** with expertise in deep learning, machine learning, and statistical analysis. I specialize in transforming complex datasets into actionable insights that drive innovation and measurable impact across healthcare, finance, and manufacturing industries.
 
 - 🔭 Currently working as **Data Science/AI Developer Intern** at eFiche, Rwanda
-- 🌱 MSc Mathematical Sciences in Data Science at **AIMS Rwanda** (Distinction)
+- 🌱 MSc Mathematical Sciences in Data Science at **AIMS Rwanda** (Distinction)(GPA: 4.79/5.0)
 - 🎯 First Class Honors graduate in Statistics from **KNUST, Ghana** (GPA: 3.92/4.0)
 - 💡 Problem-solver and lifelong learner committed to positive impact through data
 
