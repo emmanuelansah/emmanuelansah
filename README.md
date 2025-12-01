@@ -144,8 +144,9 @@ An interactive tool for learning piano keys with enhanced musical skill developm
 Comprehensive statistical analyses and dashboards across healthcare and finance industries:
 https://lookerstudio.google.com/reporting/8751e30e-c7cc-4d6d-b95e-c6dae08bdcd1/page/yTFOF
 
-### 🤖 Machine Learning Models  
-Predictive models for supply chain optimization and resource allocation.
+### 🔫 NYC Shooting Analysis 
+Conducting a case study on the New York shootings using a spatio-temporal point process model:
+https://tgnqj6-emmanuel-ansah.shinyapps.io/nyc-shooting-analysis/
 
 </div>
 
