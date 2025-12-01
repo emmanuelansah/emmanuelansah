@@ -129,19 +129,28 @@ I'm a passionate **Data Scientist** and **Statistician** with expertise in deep 
 
 <div align="center">
 
-### 🎹 Piano Learning App
-Interactive tool for learning piano keys with enhanced musical skill development
+### 🩻 Chest X-Ray Pneumonia Detector  
+End-to-end ML pipeline with ResNet-50 transfer learning, weighted loss for imbalance, full evaluation, and a deployed Hugging Face demo: 
+https://huggingface.co/spaces/eansah1234/chest-xray-pneumonia-detector
 
-### 📊 Data Analysis Portfolio
-Comprehensive statistical analyses across healthcare and finance industries
+### 🧬 DNA Sequence Classification (Kaggle)  
+Neural network model predicting transcription-factor binding on DNA sequences for the AIMS Rwanda 2025 competition: 
+https://www.kaggle.com/competitions/dna-intro-to-neural-nets-aims-rwanda-2025/leaderboard
 
-### 🤖 Machine Learning Models
-Predictive models for marketing optimization and resource allocation
+### 🎹 Piano Learning App  
+Interactive tool for learning piano keys with enhanced musical skill development.
 
-### 🏥 Scabies Incidence Modeling
-ARIMA and GLM analysis for public health planning and intervention
+### 📊 Data Analysis Portfolio  
+Comprehensive statistical analyses across healthcare and finance industries.
+
+### 🤖 Machine Learning Models  
+Predictive models for marketing optimization and resource allocation.
+
+### 🏥 Scabies Incidence Modeling  
+ARIMA and GLM analysis for public health planning and intervention.
 
 </div>
+
 
 ---
 
