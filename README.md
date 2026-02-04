@@ -19,9 +19,10 @@
 
 I'm a passionate **Data Scientist** and **Statistician** with expertise in deep learning, machine learning, and statistical analysis. I specialize in transforming complex datasets into actionable insights that drive innovation and measurable impact across healthcare, finance, and manufacturing industries.
 
-- 🔭 Currently working as **Data Science/AI Developer Intern** at eFiche, Rwanda
-- 🌱 MSc Mathematical Sciences in Data Science at **AIMS Rwanda** (Distinction)(GPA: 4.79/5.0)
-- 🎯 First Class Honors graduate in Statistics from **KNUST, Ghana** (GPA: 3.92/4.0)
+- 🔭 Currently working as **Health Systems Analytics & Monitoring Specialist** at **eFiche Ltd., Rwanda**
+- 🔭 **Data Science/AI Developer Intern** at  **eFiche Ltd., Rwanda**
+- 🌱 MSc Mathematical Sciences in Data Science at **AIMS Rwanda** (Distinction)
+- 🎯 First Class Honors graduate in Statistics from **KNUST, Ghana**
 - 💡 Problem-solver and lifelong learner committed to positive impact through data
 
 ---
@@ -120,7 +121,7 @@ I'm a passionate **Data Scientist** and **Statistician** with expertise in deep 
 
 ### 🎓 Bachelor of Science in Statistics
 **Kwame Nkrumah University of Science & Technology (KNUST), Ghana** | *2019 - 2023*
-- **Grade:** First Class Honors (GPA: 3.92/4.0)
+- **Grade:** First Class Honors
 - **Thesis:** Modeling Scabies Incidence Using ARIMA and GLM
 
 ---
