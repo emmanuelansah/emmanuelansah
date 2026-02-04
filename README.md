@@ -132,7 +132,7 @@ I'm a passionate **Data Scientist** and **Statistician** with expertise in deep 
 
 ### 🔬 ResearchPal Pro  
 An advanced multi-modal AI research assistant with 6 specialized agent modes, RAG-powered knowledge base, and multi-file analysis for data science research:  
-https://github.com/emmanuelansah/researchpal-pro  
+[https://github.com/emmanuelansah/researchpal-pro ](https://github.com/emmanuelansah/ResearchPal) 
 https://huggingface.co/spaces/eansah1234/researchpal-pro
 
 ### 🩻 Chest X-Ray Pneumonia Detector  
