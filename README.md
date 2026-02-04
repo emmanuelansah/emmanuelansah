@@ -130,6 +130,11 @@ I'm a passionate **Data Scientist** and **Statistician** with expertise in deep 
 
 <div align="center">
 
+### 🔬 ResearchPal Pro  
+An advanced multi-modal AI research assistant with 6 specialized agent modes, RAG-powered knowledge base, and multi-file analysis for data science research:  
+https://github.com/emmanuelansah/researchpal-pro  
+https://huggingface.co/spaces/eansah1234/researchpal-pro
+
 ### 🩻 Chest X-Ray Pneumonia Detector  
 End-to-end ML pipeline with ResNet-50 transfer learning, weighted loss for imbalance, full evaluation, and a deployed Hugging Face demo: 
 https://huggingface.co/spaces/eansah1234/chest-xray-pneumonia-detector
